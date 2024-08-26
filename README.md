@@ -16,26 +16,28 @@ Women Safety Analytics is a web-based platform that enhances public safety for w
     <li><a rel="noopener" href=" #usage"> Usage</a></li>
     <li><a rel="noopener" href=" #contributing"> Contributing</a></li>
   </ol>
+  <hr>
 <div>
-Features
-Technologies Used
-Project Structure
-Installation
-Usage
-Contributing
-License
-Features
-🎛️ Web-Based Dashboard for Monitoring and Analytics
-Real-Time Monitoring: Continuously monitors specific areas through video feeds or other data sources.
-User Interface: A React.js-based user-friendly dashboard that displays key metrics such as gender distribution, detected anomalies, and areas of concern.
-🧑‍🤝‍🧑 Person Detection and Gender Classification
-AI Integration: Uses pre-trained AI models to detect and classify individuals in monitored areas.
-Gender Count: Displays the number of men and women detected in a specific area.
-⚠️ Anomaly Detection and Alert System
-Lone Woman Detection: Identifies scenarios where a woman is alone in an area, particularly at night.
-Surrounded Woman Detection: Detects situations where a woman is surrounded by a group of men.
-SOS Gesture Recognition: Recognizes specific distress gestures and triggers alerts.
-Alert Mechanism: Generates real-time alerts and notifies relevant authorities via SMS or email.
+<h2>Features</h2> 
+<h3>🎛️ <strong>Web-Based Dashboard for Monitoring and Analytics</strong></h3>
+<ul>
+  <li><strong>Real-Time Monitoring:</strong> Continuously monitors specific areas through video feeds or other data sources.</li>
+  <li><strong>User Interface:</strong> A React.js-based user-friendly dashboard that displays key metrics such as gender distribution, detected anomalies, and areas of concern.</li>
+</ul>
+<h3>🧑&zwj;🤝&zwj;🧑 <strong>Person Detection and Gender Classification</strong></h3>
+<ul>
+  <li><strong>AI Integration:</strong> Uses pre-trained AI models to detect and classify individuals in monitored areas.</li>
+  <li><strong>Gender Count:</strong> Displays the number of men and women detected in a specific area.</li>
+</ul>  
+<h3>⚠️ <strong>Anomaly Detection and Alert System</strong></h3>
+<ul>
+  <li><strong>Lone Woman Detection:</strong> Identifies scenarios where a woman is alone in an area, particularly at night.</li>
+  <li><strong>Surrounded Woman Detection:</strong> Detects situations where a woman is surrounded by a group of men.</li>
+  <li><strong>SOS Gesture Recognition:</strong> Recognizes specific distress gestures and triggers alerts.</li>
+  <li><strong>Alert Mechanism:</strong> Generates real-time alerts and notifies relevant authorities via SMS or email.</li>
+</ul>
+<h3>📊 <strong>Data Visualization and Analytics</strong></h3>
+
 📊 Data Visualization and Analytics
 Heatmaps for Hotspots: Visualizes areas with high incident frequencies using Google Maps API.
 Trend Analysis: Displays trends and patterns over time to identify potential risks.

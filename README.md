@@ -1,10 +1,22 @@
+# __Women Safety Analytics__
 
-Women Safety Analytics
+<h3>Overview</h3> 
 
-Overview
 Women Safety Analytics is a web-based platform that enhances public safety for women by monitoring and analyzing real-time data. Leveraging advanced AI, data visualization, and web technologies, the platform detects potential threats to women in public spaces and provides timely alerts to relevant authorities.
+<hr>
 
-Table of Contents
+
+<div>
+  <h2>Table of Contents</h2>
+  <ol>
+    <li><a rel="noopener" href=" #features"> Features</a></li>
+    <li><a rel="noopener" href=" #technologies-used"> Technologies Used</a></li>
+    <li><a rel="noopener" href=" #project-structure"> Project Structure</a></li>
+    <li><a rel="noopener" href=" #installation"> Installation</a></li>
+    <li><a rel="noopener" href=" #usage"> Usage</a></li>
+    <li><a rel="noopener" href=" #contributing"> Contributing</a></li>
+  </ol>
+<div>
 Features
 Technologies Used
 Project Structure
